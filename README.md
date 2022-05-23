@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <em>
-    <p>
+    <p align="left">
       Department of Software, Department of Psychology , bachelor, Kyungpook National University, 2017 - present
         <a href="" <img src= "https://www.knu.ac.kr/wbbs/wbbs/main/main.action" height="30px" /> </a>
     </p>
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   <br>
   <br>
 </p>
+
  
 
 
